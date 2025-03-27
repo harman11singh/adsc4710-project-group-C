@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/credit-risk-prediction.git
+   git clone https://github.com/harman11singh/adsc4710-project-group-C.git
    cd credit-risk-prediction
    ```
 
