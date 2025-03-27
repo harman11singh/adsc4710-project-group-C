@@ -10,7 +10,6 @@ This repository demonstrates a machine learning project that predicts credit ris
 ```
 credit-risk-prediction/
 ├── README.md                 # This file
-├── .gitignore                # Specifies files/folders to ignore in Git
 ├── requirements.txt          # List of Python packages required for the project
 ├── notebooks/
 │   └── credit-risk-prediction-using-german-credit-data.ipynb  # Main Jupyter Notebook
